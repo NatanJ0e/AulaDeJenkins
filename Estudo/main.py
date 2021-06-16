@@ -10,4 +10,3 @@ if salario == valorSaida:
     print('certo')
 else:
     print('errado')
-
